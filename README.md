@@ -18,11 +18,3 @@ NLP/
 │   └── ...
 └── ...
 ```
-
-## Chapters
-
-| Chapter | Topic | Folder |
-|---------|-------|--------|
-| Chapter 1 | Part-of-Speech Tagging | [Chapter1](./Chapter1) |
-
-> New chapters will be added here as assignments are completed.
