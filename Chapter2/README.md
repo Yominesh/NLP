@@ -13,6 +13,10 @@ This is second NLP assignment which covers basic statistical NLP stuff.
 5. Laplace Smoothing - calculates word probabilities with smoothing
 6. Simple Keyboard Prediction - predicts next word using bigrams
 7. TF-IDF - computes TF, IDF and TF-IDF scores for a corpus
+8. Dense Vector Similarity - computes cosine similarity between two vectors
+9. Find Similar Words - finds the word most similar to a given word using embeddings
+10. Mini NLP Pipeline - combines vocabulary, frequency, TF, co-occurrence, sparsity, smoothing and prediction into one pipeline
+11. Conditional Probability Prediction - predicts the next word using conditional probability on bigrams
 
 ## How to run
 
