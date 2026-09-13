@@ -104,7 +104,7 @@ The notebook produces:
 
 ## Files
 
-- `YomineshGiri_SGNS` — SGNS implementation and experiments
+- `Skip-gram with Negative Sampling (SGNS)` — SGNS implementation and experiments
 - `README.md` — project documentation
 
 ## Conclusion
